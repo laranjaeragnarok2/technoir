@@ -1,0 +1,12 @@
+.vs/
+CustDebug/
+Debug/
+Release/
+x64/
+GITVER.h
+
+# Imagens de sistema e boot volumosas
+*.img
+*.zip
+*.xz
+system_part_*
