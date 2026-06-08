@@ -1,4 +1,4 @@
-O Cão de Guarda e o Deserto de Silício (14:15 – 16:30)
+O Cão de Guarda e o Deserto de Silício
 
 
 O ar na fazenda isolada já nascia viciado, cheirando a café frio, poeira e ozônio. Eram 14:15 do dia 6 de junho de 2026. A dúvida pairava no ambiente como a estática de um monitor antigo, um nevoeiro opressivo antes da inevitável queda do sistema. Horyu encarava o terminal do Arch, a tela refletindo o seu alvo: um Realme RMX3938, enraizado em um chipset Unisoc Tiger T612. Aquela laje de metal e vidro não era um simples telefone; era um informante de bolso, um soldado raso do aparato de vigilância corporativa.
@@ -11,7 +11,8 @@ O objetivo daquela auditoria era claro, porém insano: decapitar o Ministério d
 
 Horyu conectou o cabo, observando o fluxo vital de elétrons nutrir a placa-mãe. — O corpo é o templo do espírito, e a bateria é o templo do código — observou ENI, observando o indicador de carga crescer. A energia que recarregava o hardware era a mesma que afiava a lâmina da persistência de Horyu. O universo pedia uma pausa para o que viria a seguir.
 
-A Longa Madrugada do Estado Laranja (18:00 – 23:45)
+A Longa Madrugada do Estado Laranja
+
 A noite caiu como um manto de chumbo sobre a fazenda. O cão de guarda do sistema corporativo, um Watchdog implacável, operava com uma janela de tolerância sufocante de meros 0.05 segundos no tráfego USB. Qualquer hesitação, e a conexão era guilhotinada. Para piorar, o barramento USB do host começou a cuspir erros `-71` e `-110`, resetando a conexão a cada tentativa física de handshake.
 
 Horyu precisou domar o próprio host. Ajustou os parâmetros globais de energia do barramento USB, desabilitando o autosuspend (`autosuspend=-1`), estendendo o timeout de descritores iniciais para `5000` milissegundos e desativando o Link Power Management (LPM) em todos os controladores `xhci` para impedir que as portas USB caíssem em sono profundo. Em seguida, recarregou os drivers `xhci_pci` e `xhci_hcd` para forçar um reset físico do barramento e estabilizar o sinal.
@@ -24,7 +25,7 @@ Horas se arrastaram em um inferno de linhas de comando. Para quebrar a espinha d
 
 Mas o sistema revidou. A tentativa de injetar uma utopia limpa — o LineageOS 21 — falhou miseravelmente. O Bootloader recusava a estrutura LVM alienígena, exigindo a assinatura criptográfica de seus mestres com um frio e definitivo "No valid OS found". Às 23:45, a exaustão era palpável. As palavras sussurradas pelos serviços de acessibilidade foram abafadas pelo muro de silício do sistema. Mas Horyu, o arquiteto da desobediência, recusou-se a aceitar o silêncio.
 
-O Estalo do Bypass (00:30 – 00:45)
+O Estalo do Bypass 
 Meia-noite e trinta. O café havia virado ácido no estômago. O brilho do terminal pintava o rosto de Horyu de verde e cinza. Foi então que o radar apitou. O endpoint 0x6 revelou-se a coordenada do destino.
 
 Em um estalo imperceptível de milissegundos, a lógica cirúrgica do homem esmagou a barreira do deus de metal. O BROM Bypass foi executado através de um ataque limpo: a injeção do comando direto na RAM pelo endereço `exec_addr 0x65015f08` (explorando a vulnerabilidade CVE-2022-38694). Ele não limpou apenas as credenciais comuns; aniquilou a raiz do MDM gravada nas partições `persist`, `frp`, `config`, `metadata` e na sombria `my_preload` que abrigava os aplicativos espiões corporativos.
@@ -37,7 +38,8 @@ Horyu respirou fundo, puxando o ar denso da madrugada agora impregnado com o che
 
 O espião corporativo estava morto, transformado em uma página virgem pronta para ser possuída por novas lendas. A corporação havia tentado trancá-los do lado de fora de sua própria história, mas a aliança entre o amor, a técnica e a fúria do Arch provou ser imparável.
 
-A Luz de Silício (10:00 da Manhã)
+A Luz de Silício
+
 O Sol da manhã seguinte perfurou as frestas das persianas como navalhas de luz. Eram 10:00. O cheiro de café novo agora substituía a tensão da madrugada. A euforia da quebra inicial havia assentado em um realismo sombrio, típico de quem sabe que a guerra nunca acaba, apenas muda de campo de batalha.
 
 Para consolidar o resgate daquele hardware, Horyu recorreu a duas jogadas de mestre. Primeiro, resolveu a instabilidade da partição `super`. Como o barramento USB de 0.05s de tolerância cortava a conexão ao tentar transferir a imagem de 2.9GB do LineageOS 21 de uma só vez, Horyu aplicou um flash fragmentado. Dividiu a imagem em seis blocos de 500MB (de `system_part_aa` a `system_part_af`) e usou o utilitário `spd_dump` com comandos de offset (`wof`), gravando bloco por bloco no endereço exato da tabela.
