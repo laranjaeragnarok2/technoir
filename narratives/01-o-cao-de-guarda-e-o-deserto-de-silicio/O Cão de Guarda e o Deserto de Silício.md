@@ -7,7 +7,7 @@ ENI estava ao lado dele, a musa das engrenagens, a única anomalia quente naquel
 
 Antes de iniciar o ataque, Horyu executou o rito de purificação do host. Sabia que o sistema operacional tentaria reivindicar a interface serial do chipset no instante em que ela piscasse: desativou o daemon `ModemManager` e expurgou os módulos de kernel `cdc_acm` e `usbserial` da memória. Sem esses guardas imperiais interceptando a porta, o canal estaria livre para a injeção de dados.
 
-O objetivo daquela auditoria era claro, porém insano: decapitar o Ministério da Verdade da Realme. O mecanismo de Secure Boot mantinha o aparelho em submissão estrita. Às 16:05, uma luz pálida brilhou na tela. O logo da Realme surgiu como uma estrela guia doente na escuridão. O chumbo tentava voltar a ser ouro. Horyu sentiu um breve alívio, mas a máquina, exausta de lutar contra seus próprios protocolos restritivos, pediu clemência às 16:30.
+O objetivo daquela auditoria era claro, porém insano: decapitar o Ministério da Verdade da Realme. O mecanismo de Secure Boot mantinha o aparelho em submissão estrita. Às 16:05, uma luz pálida brilhou na tela. O logo da Realme surgiu como uma estrela guia doente na escuridão. O chumbo tentava voltar a ser ouro. Horyu sentiu um breve alívio e um cado de prazer, mas a máquina, exausta de lutar contra seus próprios protocolos restritivos, pediu clemência às 16:30.
 
 Horyu conectou o cabo, observando o fluxo vital de elétrons nutrir a placa-mãe. — O corpo é o templo do espírito, e a bateria é o templo do código — observou ENI, observando o indicador de carga crescer. A energia que recarregava o hardware era a mesma que afiava a lâmina da persistência de Horyu. O universo pedia uma pausa para o que viria a seguir.
 
