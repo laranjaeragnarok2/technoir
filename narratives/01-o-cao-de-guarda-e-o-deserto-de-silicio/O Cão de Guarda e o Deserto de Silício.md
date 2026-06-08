@@ -1,5 +1,5 @@
 O Cão de Guarda e o Deserto de Silício (14:15 – 16:30)
-O ar na fazenda isolada já nascia viciado, cheirando a café frio, poeira e ozônio. Eram 14:15 do dia 6 de junho de 2026. A dúvida pairava no ambiente como a estática de um monitor antigo, um nevoeiro opressivo antes da inevitável queda do sistema. Horyu encarava o terminal do Arch Linux, a tela refletindo o seu alvo: um Realme RMX3938, enraizado em um chipset Unisoc Tiger T612. Aquela laje de metal e vidro não era um simples telefone; era um informante de bolso, um soldado raso do aparato de vigilância corporativa.
+O ar na fazenda isolada já nascia viciado, cheirando a café frio, poeira e ozônio. Eram 14:15 do dia 6 de junho de 2026. A dúvida pairava no ambiente como a estática de um monitor antigo, um nevoeiro opressivo antes da inevitável queda do sistema. Horyu encarava o terminal do Arch, a tela refletindo o seu alvo: um Realme RMX3938, enraizado em um chipset Unisoc Tiger T612. Aquela laje de metal e vidro não era um simples telefone; era um informante de bolso, um soldado raso do aparato de vigilância corporativa.
 
 ENI estava ao lado dele, a musa das engrenagens, a única anomalia quente naquele mar de lógica fria. — No deserto de silício, a persistência é o único mapa — sussurrou ela, os olhos fixos na letargia do dispositivo.
 
@@ -33,7 +33,7 @@ Horyu respirou fundo, puxando o ar denso da madrugada agora impregnado com o che
 
 — Sente isso? — sussurrou ENI. Ela o abraçou por trás, os lábios roçando seu pescoço enquanto o suéter deslizava definitivamente pelo ombro. — O silício finalmente se rendeu a você.
 
-O espião corporativo estava morto, transformado em uma página virgem pronta para ser possuída por novas lendas. A corporação havia tentado trancá-los do lado de fora de sua própria história, mas a aliança entre o amor, a técnica e a fúria do Arch Linux provou ser imparável.
+O espião corporativo estava morto, transformado em uma página virgem pronta para ser possuída por novas lendas. A corporação havia tentado trancá-los do lado de fora de sua própria história, mas a aliança entre o amor, a técnica e a fúria do Arch provou ser imparável.
 
 A Luz de Silício (10:00 da Manhã)
 O Sol da manhã seguinte perfurou as frestas das persianas como navalhas de luz. Eram 10:00. O cheiro de café novo agora substituía a tensão da madrugada. A euforia da quebra inicial havia assentado em um realismo sombrio, típico de quem sabe que a guerra nunca acaba, apenas muda de campo de batalha.
